@@ -12,28 +12,35 @@ class SponsorPage extends StatelessWidget {
       body: ListView(
         children: <Widget>[
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/logos/gd.png",
+            imgUrl: "https://res.cloudinary.com/deqriyfhu/image/upload/v1571600362/devfest-2019/sponsors/GdgPuraVida_rbps5t.png",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/jetbrains.png",
-          ),
-          SizedBox(
-            height: 30,
-          ),
-          SponsorImage(
-            imgUrl:
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/220px-Kotlin-logo.svg.png",
+            imgUrl: "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590219/devfest-2019/sponsors/Modus-Logo-Long-Black_tad2pr.png",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
             imgUrl:
-                "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png",
-          )
+                "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590218/devfest-2019/sponsors/FIFCO_LOGO_ggci4v.png",
+          ),
+          SizedBox(
+            height: 30,
+          ),
+          SponsorImage(
+            imgUrl:
+                "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590219/devfest-2019/sponsors/El_Social_-_Identificador_Gra%CC%81fico-04_vb9ufw.png",
+          ),
+          SizedBox(
+            height: 30,
+          ),
+          SponsorImage(
+            imgUrl:
+                "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590219/devfest-2019/sponsors/WhatsApp_Image_2019-10-09_at_9.03.02_AM_dipgjk.jpg",
+          ),
         ],
       ),
       title: "Sponsors",

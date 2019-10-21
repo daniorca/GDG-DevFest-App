@@ -1,34 +1,51 @@
 {
-  "teams": [
-    {
-      "name": "Sundar Pichai",
-      "desc": "Organizer",
-      "contribution": "Google CEO",
-      "image": "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg"
-    },
-    {
-      "name": "Vrijraj",
-      "desc": "Co-Organizer",
-      "contribution": "Logistics and travels",
-      "image": "https://avatars2.githubusercontent.com/u/10599101?s=460&v=4"
-    },
-    {
-      "name": "Larry Page",
-      "desc": "Co-Organizer",
-      "contribution": "Founder",
-      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F400x400.jpg%3Ffit%3Dscale%26background%3D000000"
-    },
-    {
-      "name": "Pawan Kumar",
-      "desc": "Co-Organizer",
-      "contribution": "Developed the app",
-      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
-    },
-    {
-      "name": "Pawan Kumar",
-      "desc": "Organizer",
-      "contribution": "Developed the app",
-      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
-    }
-  ]
+    "teams": [{
+            "name": "Eduardo Oviedo",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/28.EduardoOviedo_zdxp7m.jpg"
+        },
+        {
+            "name": "Karol Rojas",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591234/devfest-2019/miembros_gdg/Karol_kktxkd.jpg"
+        },
+        {
+            "name": "Samantha Arburola",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590148/devfest-2019/miembros_gdg/67082670_2527682677252198_9058543737633767424_o_og17p6.jpg"
+        },
+        {
+            "name": "Alejandra Gil",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/61276977_10213766158406107_5011049210234011648_o_w88xuk.jpg"
+        },
+        {
+            "name": "Alfredo Bonilla",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/18.Alfredo_Bonilla_hrrnpp.jpg"
+        },
+        {
+            "name": "Daniel Ortiz",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591168/devfest-2019/miembros_gdg/20.Daniel_Ortiz_rs56qr.png"
+        },
+        {
+            "name": "Mariano Alvarez",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591177/devfest-2019/miembros_gdg/10._Mariano_Alvarez_a0s9fs.png"
+        },
+        {
+            "name": "Esmeralda Alvarez",
+            "desc": "Co-Organizer",
+            "contribution": "GDG Pura Vida",
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590147/devfest-2019/miembros_gdg/Esmeralda_wkvmh7.jpg"
+        }
+    ]
 }

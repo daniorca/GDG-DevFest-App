@@ -1,84 +1,293 @@
 {
-  "speakers": [
-    {
-      "speaker_image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
-      "speaker_name": "Pawan Kumar",
-      "speaker_desc": "Google Developer Expert, Flutter",
-      "speaker_session": "Talk: Getting Started With Flutter For Web",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVW9DRktRcllTZDN1T2VINnhiUC11M2pVUFZFLVI0dVh5czF6d2lKNGRwanJjVjJhWm1zSUJZelVkZzBRaG9uRkNJZmhVZEg3ZGpVV0RhRmpQWXFYeHU0Y1ZDRmROb3FQYnVBQ2VKMWdOSFRHS3B0YWxRLk8xa3k2cVpFOG15UFAyRnk",
-      "speaker_name": "Laura Morinigo",
-      "speaker_desc": "Software Developer, DMod Labs",
-      "speaker_session": "How I Became a Mobile Developer with Firebase and Flutter",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJET043VnFRT2R1UHdyS1lFUElwLVNaYlVVbnc1enJuNTNGbUtQQjR0SF9STVUzMVptdkgzclRpRjhTUDc2WUNvNldKNFVacFhiXzF4bUoxTVc0RzlfXzF3d2tPUXl4NTNSNjBNSzRoaXB1VVBxOTRFLk0yOHMwWm1NeURjaWxQZ1k",
-      "speaker_name": "Jimenez Raul",
-      "speaker_desc": "Software Engineer, Byte Default",
-      "speaker_session": "Angular Elements",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UozlnKuWKqwaGjT2U6ylLLyMtoByOnx-ctrRmn5A8kptjCS50E8EgQDSuxYg8chsldOmSLbHScKX0ERlngHvbRp5XVRyNuAUSIm_Hguq3THTisLLaU.UyKUL3gyFQsEAcmO",
-      "speaker_name": "Sathish V J",
-      "speaker_desc": "Tech Architect, Investor, Tutor",
-      "speaker_session": "Machine Learning and AutoML on GCP",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqZAYU9q0R5K2cq94DxU7ebiOMhilDlx5NzzsWWZ_oHxqcZV8H8j594rg_q_vyfTToA0BfScTHOHAj8uKf2OeF5MVqa_jmdjC9JO9-2TcPWjboxPf8.NN-XmkQxmHl1XyY_",
-      "speaker_name": "Timothy Jordan",
-      "speaker_desc": "Sr. Staff Developer Advocate, Google",
-      "speaker_session": "Top 5 from Firebase Summit '18",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJ2Zkg0YUY1ZFJoMFFRbWlqdFE4MV9nNTdJR0dxUS1ubVJfbkN2Y1RaS3VoaUp2dWd3ejNmUmJRekFQaU5QNGhqd1F6cUtKQXpYeXJkemVyS2hUY1NzSWloMXFCNzQzdmpRVVVmU0Z4XzJZRDVZQXVBLnFHVllKVmc2MUVzQVZ5bVI",
-      "speaker_name": "Tanay Pant",
-      "speaker_desc": "Web Developer Advocate, Mozilla Foundation",
-      "speaker_session": "Multiplayer Games with WebXR",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqEG002BsGCqZLZRFUGu9xo4IpGamz6gTqlWxWyME0s-n8gR7Rs0tM5R6mPMOCRYf5rAunWx0GQeXDUHPag_XWGApdekw.cks8tPlPy-TeucOT",
-      "speaker_name": "Eric Maxwell",
-      "speaker_desc": "Software Developer, Big Nerd Ranch",
-      "speaker_session": "Mobile Database Persistence",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXBET0RKT0JBV195UjVuSDRKS3JEenphN2gzLW80WEdvenlGdkZhNGREUzFmQUk1RjJnR0N5eEJIdlBkOVhlLUdwalVSWXlxbXJ4VFA0QXRZdnB4WDllWFNpdmdiNy14Q0tLOENCeU41Yks4NF9vUVQ0LlVFY0RBeld0ZTd4OEtSUTg",
-      "speaker_name": "Yohan Totting",
-      "speaker_desc": "Web Developer Advocate, Google",
-      "speaker_session": "Progressive Experience Web Development",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    }
-  ]
+    "speakers": [{
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571611303/devfest-2019/speakers/Adriana_qqspep.jpg",
+            "speaker_name": "Adriana Moya",
+            "speaker_desc": "",
+            "speaker_session": "Aplicaciones Serverless con Google Cloud",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/12._akshay_kumar_ld8olv.jpg",
+            "speaker_name": "Akshay Kumar Pallerla",
+            "speaker_desc": "Google Cloud Certified Professional Data Engineer working at NTT DATA",
+            "speaker_session": "Introduction to Google Big Query",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "https://www.linkedin.com/in/akshay-kumar-pallerla-b2169856/",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571589912/devfest-2019/speakers/Ale_absu63.jpg",
+            "speaker_name": "Alejandra Gil",
+            "speaker_desc": "Mobile developer",
+            "speaker_session": "Desde 0 con remote config\nIniciando la aventura con Firestore",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "https://www.linkedin.com/in/alejandra-gil-calderon-3a9386105",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360611/devfest-2019/speakers/18.Alfredo_Bonilla_cdbnvo.jpg",
+            "speaker_name": "Alfredo Bonilla",
+            "speaker_desc": "Ingeniería en Sistemas de Información",
+            "speaker_session": "¡Web a toda velocidad!",
+            "fb_url": "",
+            "github_url": "https://github.com/brolag",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/Brolag"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590480/devfest-2019/speakers/Foto_Ana_Beatriz_Bravo_small_kwx1iy.jpg",
+            "speaker_name": "Ana Bravo",
+            "speaker_desc": "",
+            "speaker_session": "How to integrate ui/ux designers with devs using material design",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360621/devfest-2019/speakers/26.Andrea_Abarca_-_Andrea_Abarca_rvzxji.jpg",
+            "speaker_name": "Andrea Abarca Baltodano",
+            "speaker_desc": "Software Apprentice, Pernix Labs",
+            "speaker_session": "My First PWA",
+            "fb_url": "",
+            "github_url": "https://github.com/aabarcab",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/devfest-2019/speakers/16.Brian_Salazar_v96slt.jpg",
+            "speaker_name": "Brian Salazar",
+            "speaker_desc": "Programador",
+            "speaker_session": "¿Monolítico a microservicios, opción para escalabilidad?",
+            "fb_url": "fb.me/avenidanet",
+            "github_url": "http://github.com/avenidanet",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590802/devfest-2019/speakers/20.Daniel_Ortiz_ahml37.png",
+            "speaker_name": "Daniel Ortiz",
+            "speaker_desc": "Software Developer",
+            "speaker_session": "¿Cómo estructurar un proyecto en Flutter?, Provider y Mejores prácticas de desarrollo",
+            "fb_url": "https://www.facebook.com/zitrodan",
+            "github_url": "https://github.com/daniorca",
+            "linkedin_url": "https://www.linkedin.com/in/daniel-ortiz-c/",
+            "twitter_url": "https://twitter.com/zitrodan"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591031/devfest-2019/speakers/Marco_dydri9.jpg",
+            "speaker_name": "Marcos Sevilla",
+            "speaker_desc": "Mobile Developer",
+            "speaker_session": "Flutter + Firebase",
+            "fb_url": "",
+            "github_url": "https://github.com/marcossevilla",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/MarcosJSevilla"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360616/devfest-2019/speakers/28.EduardoOviedo_dpigjg.jpg",
+            "speaker_name": "Eduardo Oviedo Blanco",
+            "speaker_desc": "Arquitecto de Software",
+            "speaker_session": "Flutter app con Firebase en Android Things",
+            "fb_url": "https://www.facebook.com/edwar6.xyz",
+            "github_url": "https://github.com/edWAR6",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/5.EstebanSolano_wi55hm.jpg",
+            "speaker_name": "Esteban Solano Granados",
+            "speaker_desc": "Senior Software Engineer",
+            "speaker_session": "Intro a Mobile DevOps",
+            "fb_url": "",
+            "github_url": "https://github.com/stvansolano",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/stvansolano"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/devfest-2019/speakers/13.Freddy_Montes_yp3cgh.jpg",
+            "speaker_name": "Freddy Montes",
+            "speaker_desc": "JavaScript Developer",
+            "speaker_session": "Web Component con LitElements",
+            "fb_url": "",
+            "github_url": "http://github.com/fmontes",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/9.Gabriela_Oropeza_tlosb6.jpg",
+            "speaker_name": "Gabriela Oropeza",
+            "speaker_desc": "Ingeniero en Informatica",
+            "speaker_session": "Generando caras con Tensorflow",
+            "fb_url": "",
+            "github_url": "https://github.com/gabyrh77",
+            "linkedin_url": "https://www.linkedin.com/in/gabyrh77",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571613762/devfest-2019/speakers/Gabriela-Salas-foto-gravatar_xdsvpm.jpg",
+            "speaker_name": "Gabriela Salas",
+            "speaker_desc": "Diseñadora Web/UX/UI",
+            "speaker_session": "Taller de Branding + UX",
+            "fb_url": "https://www.facebook.com/gabysalas",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/devfest-2019/speakers/15.IgnacioRojas_hwu4rk.jpg",
+            "speaker_name": "Ignacio Rojas Aguilar",
+            "speaker_desc": "Web Developer",
+            "speaker_session": "Predictive Prefetching en Angular con guess.js y Google Analytics",
+            "fb_url": "",
+            "github_url": "https://github.com/irojasag",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/irojasaglr"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360613/devfest-2019/speakers/14.Javier_Delgado_jwu0yu.jpg",
+            "speaker_name": "Javier Delgado",
+            "speaker_desc": "Developer",
+            "speaker_session": "Automatizando mi casa",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590023/devfest-2019/speakers/Jeanneth_qjkvlb.jpg",
+            "speaker_name": "Janeth Hael Martinez",
+            "speaker_desc": "Licenciada en Informática",
+            "speaker_session": "Adroid desde La Paz",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/JhanelMartinez"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/1.JoelHumbertoGomez_sjo4ek.jpg",
+            "speaker_name": "Joel Humberto Gómez Paredes",
+            "speaker_desc": "Desarrollador Full Stack",
+            "speaker_session": "Creating Solutions for Mobility using Google Maps Platform",
+            "fb_url": "https://www.facebook.com/mr.dezka",
+            "github_url": "https://github.com/dezkareid",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/dezkareid"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590023/devfest-2019/speakers/Jonathan_qqepq8.jpg",
+            "speaker_name": "Jonnathan Rodríguez, Victor Romero",
+            "speaker_desc": "Investigadores - Desarrolladores",
+            "speaker_session": "Aplicación y validación de Accesibilidad Web",
+            "fb_url": "https://www.facebook.com/inclutecr",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590023/devfest-2019/speakers/Karina_Moya_pmsu3c.jpg",
+            "speaker_name": "Karina Moya",
+            "speaker_desc": "",
+            "speaker_session": "Firebase Performance Monitoring",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590657/devfest-2019/speakers/3.Kenneth_Ce%CC%81spedes_vyqezv.jpg",
+            "speaker_name": "Kenneth Céspedes Garbanzo",
+            "speaker_desc": "Estudiante Lic.ITM del ITCR",
+            "speaker_session": "Entiendo el Asistant por una niña de 10 años/ Amigo Camaleón",
+            "fb_url": "https://www.facebook.com/kenneth.cespedes.9",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/6.LeonelLopez_ewxgqd.jpg",
+            "speaker_name": "Leonel López Borbón",
+            "speaker_desc": "Ingeniero en sistemas",
+            "speaker_session": "Accesibilidad Web para las Personas Sordas",
+            "fb_url": "https://facebook/accesovisualcr",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590725/devfest-2019/speakers/10._Mariano_Alvarez_gjshag.png",
+            "speaker_name": "Mariano Alvarez Harbottle",
+            "speaker_desc": "Web Practice Lead",
+            "speaker_session": "Accelerated Mobile Pages, ¿Por donde inicio?\nVolando con Assistant",
+            "fb_url": "",
+            "github_url": "https://github.com/mahcr",
+            "linkedin_url": "https://www.linkedin.com/in/mahcr/",
+            "twitter_url": "https://twitter.com/malvarezcr"
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360613/devfest-2019/speakers/19.Merary_Alvarado_QACR_jhvcou.jpg",
+            "speaker_name": "Merary Alvarado Rojas",
+            "speaker_desc": "Accessibility Specialist",
+            "speaker_session": "Accessibility First strategies to reinforce de business and innovation",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "https://www.linkedin.com/in/merary-alvarado",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360616/devfest-2019/speakers/23.michael_Osorio_g65yth.png",
+            "speaker_name": "Michael Osorio",
+            "speaker_desc": "Profesor de Matemática",
+            "speaker_session": "Entornos tecnológicos en la enseñanza de la matemática con Google",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/8.Nestor_-_Ne%CC%81stor_Revero%CC%81n_lnnugx.jpg",
+            "speaker_name": "Néstor Reverón",
+            "speaker_desc": "Cloud Instructor",
+            "speaker_session": "Containers at Google and an Introduction to Anthos",
+            "fb_url": "",
+            "github_url": "https://github.com/nestorreveron",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360606/devfest-2019/speakers/11.Randall_Hernandez_kivjod.jpg",
+            "speaker_name": "Randall Hernandez Barquero",
+            "speaker_desc": "Full stack developer",
+            "speaker_session": "Como empezar con TensorFlow",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "https://www.linkedin.com/in/randall-hern%C3%A1ndez-a6492263",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/2.Robert_Flagg_-_Director_Engineering_zmzm9l.png",
+            "speaker_name": "Robert Flagg",
+            "speaker_desc": "Director, Engineering",
+            "speaker_session": "Adding Augmented Reality to HTML5 video in an Angular 8 Ionic PWA",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        },
+        {
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571616787/devfest-2019/speakers/andrea-navarro_yii7sj.png",
+            "speaker_name": "Andrea Navarro",
+            "speaker_desc": "Periodista",
+            "speaker_session": "Como crear estrategias en marketing digital",
+            "fb_url": "https://www.facebook.com/andre.navarro.9041",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
+        }
+    ]
 }

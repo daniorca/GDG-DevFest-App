@@ -1,51 +1,83 @@
 {
     "teams": [{
             "name": "Eduardo Oviedo",
-            "desc": "Co-Organizer",
+            "desc": "Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/28.EduardoOviedo_zdxp7m.jpg"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/28.EduardoOviedo_zdxp7m.jpg",
+            "fb_url": "https://www.facebook.com/edwar6.xyz",
+            "github_url": "https://github.com/edWAR6",
+            "linkedin_url": "",
+            "twitter_url": ""
         },
         {
             "name": "Karol Rojas",
             "desc": "Co-Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591234/devfest-2019/miembros_gdg/Karol_kktxkd.jpg"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591234/devfest-2019/miembros_gdg/Karol_kktxkd.jpg",
+            "fb_url": "https://www.facebook.com/k.rojasmontero",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
         },
         {
             "name": "Samantha Arburola",
             "desc": "Co-Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590148/devfest-2019/miembros_gdg/67082670_2527682677252198_9058543737633767424_o_og17p6.jpg"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590148/devfest-2019/miembros_gdg/67082670_2527682677252198_9058543737633767424_o_og17p6.jpg",
+            "fb_url": "https://www.facebook.com/vainillaglasses",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
         },
         {
             "name": "Alejandra Gil",
-            "desc": "Co-Organizer",
+            "desc": "Event Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/61276977_10213766158406107_5011049210234011648_o_w88xuk.jpg"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/61276977_10213766158406107_5011049210234011648_o_w88xuk.jpg",
+            "fb_url": "https://www.facebook.com/alejandra.gil.37604",
+            "github_url": "",
+            "linkedin_url": "https://www.linkedin.com/in/alejandra-gil-calderon-3a9386105",
+            "twitter_url": ""
         },
         {
             "name": "Alfredo Bonilla",
-            "desc": "Co-Organizer",
+            "desc": "Event Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/18.Alfredo_Bonilla_hrrnpp.jpg"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590144/devfest-2019/miembros_gdg/18.Alfredo_Bonilla_hrrnpp.jpg",
+            "fb_url": "https://www.facebook.com/brolag",
+            "github_url": "https://github.com/brolag",
+            "linkedin_url": "",
+            "twitter_url": "https://twitter.com/Brolag"
         },
         {
             "name": "Daniel Ortiz",
-            "desc": "Co-Organizer",
+            "desc": "Event Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591168/devfest-2019/miembros_gdg/20.Daniel_Ortiz_rs56qr.png"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591168/devfest-2019/miembros_gdg/20.Daniel_Ortiz_rs56qr.png",
+            "fb_url": "https://www.facebook.com/zitrodan",
+            "github_url": "https://github.com/daniorca",
+            "linkedin_url": "https://www.linkedin.com/in/daniel-ortiz-c/",
+            "twitter_url": "https://twitter.com/zitrodan"
         },
         {
             "name": "Mariano Alvarez",
-            "desc": "Co-Organizer",
+            "desc": "Event Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591177/devfest-2019/miembros_gdg/10._Mariano_Alvarez_a0s9fs.png"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591177/devfest-2019/miembros_gdg/10._Mariano_Alvarez_a0s9fs.png",
+            "fb_url": "https://www.facebook.com/mariano.alvarez.h",
+            "github_url": "https://github.com/mahcr",
+            "linkedin_url": "https://www.linkedin.com/in/mahcr/",
+            "twitter_url": "https://twitter.com/malvarezcr"
         },
         {
             "name": "Esmeralda Alvarez",
-            "desc": "Co-Organizer",
+            "desc": "Assistant Organizer",
             "contribution": "GDG Pura Vida",
-            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590147/devfest-2019/miembros_gdg/Esmeralda_wkvmh7.jpg"
+            "image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590147/devfest-2019/miembros_gdg/Esmeralda_wkvmh7.jpg",
+            "fb_url": "",
+            "github_url": "",
+            "linkedin_url": "",
+            "twitter_url": ""
         }
     ]
 }

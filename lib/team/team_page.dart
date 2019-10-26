@@ -5,6 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_devfest/home/index.dart';
 import 'package:flutter_devfest/home/speaker.dart';
+import 'package:flutter_devfest/home/team.dart';
 import 'package:flutter_devfest/universal/dev_scaffold.dart';
 import 'package:flutter_devfest/utils/tools.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
@@ -13,7 +14,7 @@ import 'package:url_launcher/url_launcher.dart';
 class TeamPage extends StatelessWidget {
   static const String routeName = "/team";
 
-  Widget socialActions(context) => FittedBox(
+  Widget socialActions(context, Team teamMember) => FittedBox(
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: <Widget>[
@@ -22,36 +23,32 @@ class TeamPage extends StatelessWidget {
                 FontAwesomeIcons.facebookF,
                 size: 15,
               ),
-              onPressed: () {
-                launch(speakers[0].fbUrl);
-              },
+              onPressed: () =>
+                  teamMember.fbUrl != '' ? launch(teamMember.fbUrl) : null,
             ),
             IconButton(
               icon: Icon(
                 FontAwesomeIcons.twitter,
                 size: 15,
               ),
-              onPressed: () {
-                launch(speakers[0].twitterUrl);
-              },
+              onPressed: () =>
+              teamMember.twitterUrl != '' ? launch(teamMember.twitterUrl) : null,
             ),
             IconButton(
               icon: Icon(
                 FontAwesomeIcons.linkedinIn,
                 size: 15,
               ),
-              onPressed: () {
-                launch(speakers[0].linkedinUrl);
-              },
+              onPressed: () =>
+                teamMember.linkedinUrl != '' ? launch(teamMember.linkedinUrl) : null,
             ),
             IconButton(
               icon: Icon(
                 FontAwesomeIcons.github,
                 size: 15,
               ),
-              onPressed: () {
-                launch(speakers[0].githubUrl);
-              },
+              onPressed: () =>
+                teamMember.githubUrl != '' ? launch(teamMember.githubUrl) : null,
             ),
           ],
         ),
@@ -124,7 +121,7 @@ class TeamPage extends StatelessWidget {
                             teams[i].contribution,
                             style: Theme.of(context).textTheme.caption,
                           ),
-                          socialActions(context),
+                          socialActions(context, teams[i]),
                         ],
                       ),
                     )

@@ -79,7 +79,7 @@ class HomeFront extends StatelessWidget {
             onPressed: () => Navigator.pushNamed(context, FaqPage.routeName),
           ),
           RaisedButton(
-            child: Text("Locate Us"),
+            child: Text("Ubicación"),
             shape: StadiumBorder(),
             color: Colors.blue,
             colorBrightness: Brightness.dark,
@@ -141,41 +141,36 @@ class HomeFront extends StatelessWidget {
             IconButton(
               icon: Icon(FontAwesomeIcons.facebookF),
               onPressed: () async {
-                await _launchURL("https://facebook.com/imthepk");
+                await _launchURL("https://www.facebook.com/gdgpuravida/");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.twitter),
               onPressed: () async {
-                await _launchURL("https://twitter.com/imthepk");
+                await _launchURL("https://twitter.com/gdgpuravida");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.linkedinIn),
               onPressed: () async {
-                _launchURL("https://linkedin.com/in/imthepk");
+                _launchURL("https://www.linkedin.com/company/gdg-pura-vida/");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.youtube),
               onPressed: () async {
-                await _launchURL("https://youtube.com/mtechviral");
+                await _launchURL("https://www.youtube.com/channel/UCEbDneVpRdi67Kh53HtE9dw");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.meetup),
               onPressed: () async {
-                await _launchURL("https://meetup.com/");
+                await _launchURL("https://www.meetup.com/gdg-costarica/");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.envelope),
-              onPressed: () async {
-                var emailUrl =
-                    '''mailto:mtechviral@gmail.com?subject=Support Needed For DevFest App&body={Name: Pawan Kumar},Email: pawan221b@gmail.com}''';
-                var out = Uri.encodeFull(emailUrl);
-                await _launchURL(out);
-              },
+              onPressed: () {},
             ),
           ],
         ),

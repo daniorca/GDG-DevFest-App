@@ -24,8 +24,8 @@
         {
             "session_id": "3",
             "session_start_time": "10:00 AM",
-            "session_total_time": "60 Mins",
-            "session_title": "Accessibility First strategies to reinforce de business and innovation",
+            "session_total_time": "90 Mins",
+            "session_title": "Accessibility First strategies to reinforce the business and innovation",
             "session_desc": "[Aula 1]",
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360613/devfest-2019/speakers/19.Merary_Alvarado_QACR_jhvcou.jpg",
             "speaker_name": "Merary Alvarado Rojas",
@@ -45,17 +45,6 @@
         },
         {
             "session_id": "5",
-            "session_start_time": "10:00 AM",
-            "session_total_time": "30 Mins",
-            "session_title": "Desde 0 con remote config",
-            "session_desc": "[Aula 2] - Cuenta en Firebase, conocimientos basicos en android, contar con Android Studio",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571589912/devfest-2019/speakers/Ale_absu63.jpg",
-            "speaker_name": "Alejandra Gil",
-            "speaker_desc": "Mobile developer",
-            "track": "mobile"
-        },
-        {
-            "session_id": "6",
             "session_start_time": "10:30 AM",
             "session_total_time": "30 Mins",
             "session_title": "Adding Augmented Reality to HTML5 video in an Angular 8 Ionic PWA",
@@ -66,7 +55,7 @@
             "track": "web"
         },
         {
-            "session_id": "7",
+            "session_id": "6",
             "session_start_time": "10:30 AM",
             "session_total_time": "30 Mins",
             "session_title": "Accelerated Mobile Pages, ¿Por donde inicio?",
@@ -75,6 +64,17 @@
             "speaker_name": "Mariano Alvarez Harbottle",
             "speaker_desc": "Web Practice Lead",
             "track": "web"
+        },
+        {
+            "session_id": "7",
+            "session_start_time": "10:30 AM",
+            "session_total_time": "30 Mins",
+            "session_title": "Desde 0 con remote config",
+            "session_desc": "[Aula 2] - Cuenta en Firebase, conocimientos basicos en android, contar con Android Studio",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571589912/devfest-2019/speakers/Ale_absu63.jpg",
+            "speaker_name": "Alejandra Gil",
+            "speaker_desc": "Mobile developer",
+            "track": "mobile"
         },
         {
             "session_id": "8",
@@ -103,25 +103,14 @@
             "session_start_time": "11:00 AM",
             "session_total_time": "60 Mins",
             "session_title": "Creating Solutions for Mobility using Google Maps Platform",
-            "session_desc": "[Aula 1] - Un taller que tiene como objetivo crear un visualizador para tracking de assets, útil para servicios de paquetería, comida a domicilio, etc. Usando Google Maps Platform aprenderás como usar la plataforma, personalizar mapas y usar servicios para brindar características como Real Time usando Firebase",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/1.JoelHumbertoGomez_sjo4ek.jpg",
+            "session_desc": "[Aula 2] - Un taller que tiene como objetivo crear un visualizador para tracking de assets, útil para servicios de paquetería, comida a domicilio, etc. Usando Google Maps Platform aprenderás como usar la plataforma, personalizar mapas y usar servicios para brindar características como Real Time usando Firebase",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1572117443/devfest-2019/int_speakers/1.JoelHumbertoGomez_sjo4ek_jhap24.jpg",
             "speaker_name": "Joel Humberto Gómez Paredes",
             "speaker_desc": "Desarrollador Full Stack",
             "track": "web"
         },
         {
             "session_id": "11",
-            "session_start_time": "11:00 AM",
-            "session_total_time": "60 Mins",
-            "session_title": "Flutter + Firebase",
-            "session_desc": "[Aula 2] - Tener una laptop con el SDK de Flutter instalado y una cuenta en Google para Firebase",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591031/devfest-2019/speakers/Marco_dydri9.jpg",
-            "speaker_name": "Marcos Sevilla",
-            "speaker_desc": "Mobile Developer",
-            "track": "mobile"
-        },
-        {
-            "session_id": "12",
             "session_start_time": "11:30 AM",
             "session_total_time": "30 Mins",
             "session_title": "¡Web a toda velocidad!",
@@ -132,7 +121,7 @@
             "track": "mobile"
         },
         {
-            "session_id": "13",
+            "session_id": "12",
             "session_start_time": "11:30 AM",
             "session_total_time": "30 Mins",
             "session_title": "Automatizando mi casa",
@@ -141,6 +130,17 @@
             "speaker_name": "Javier Delgado",
             "speaker_desc": "Developer",
             "track": "mobile"
+        },
+        {
+            "session_id": "13",
+            "session_start_time": "11:30 AM",
+            "session_total_time": "30 Mins",
+            "session_title": "Firebase Performance Monitoring",
+            "session_desc": "[Aula 1]",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590023/devfest-2019/speakers/Karina_Moya_pmsu3c.jpg",
+            "speaker_name": "Karina Moya",
+            "speaker_desc": "",
+            "track": "web"
         },
         {
             "session_id": "14",
@@ -169,7 +169,7 @@
             "session_start_time": "01:00 PM",
             "session_total_time": "60 Mins",
             "session_title": "Estructurar un Proyecto Flutter, Usando Provider y Mejores prácticas de desarrollo",
-            "session_desc": "[Aula 1] - Se desarrollará una aplicación Flutter utilizando Provider para el manejo de estado, con integración a Restful API, observando las mejores practicas de desarrollo y estructurando el proyecto de forma tal que haya una adecuada separación de responsabilidades",
+            "session_desc": "[Aula 1] - Se revisará una aplicación Flutter utilizando Provider para el manejo de estado, observando las mejores practicas de desarrollo y estructurando el proyecto de forma tal que haya una adecuada separación de responsabilidades",
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590802/devfest-2019/speakers/20.Daniel_Ortiz_ahml37.png",
             "speaker_name": "Daniel Ortiz",
             "speaker_desc": "Software Developer",
@@ -177,13 +177,13 @@
         },
         {
             "session_id": "17",
-            "session_start_time": "01:00 AM",
-            "session_total_time": "30 Mins",
-            "session_title": "Firebase Performance Monitoring",
+            "session_start_time": "01:30 PM",
+            "session_total_time": "120 Mins",
+            "session_title": "Branding + UX",
             "session_desc": "[Aula 2]",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571590023/devfest-2019/speakers/Karina_Moya_pmsu3c.jpg",
-            "speaker_name": "Karina Moya",
-            "speaker_desc": "",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571613762/devfest-2019/speakers/Gabriela-Salas-foto-gravatar_xdsvpm.jpg",
+            "speaker_name": "Gabriela Salas",
+            "speaker_desc": "Diseñadora Web/UX/UI",
             "track": "web"
         },
         {
@@ -210,32 +210,32 @@
         },
         {
             "session_id": "20",
-            "session_start_time": "01:30 PM",
-            "session_total_time": "120 Mins",
-            "session_title": "Branding + UX",
-            "session_desc": "[Aula 2]",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571613762/devfest-2019/speakers/Gabriela-Salas-foto-gravatar_xdsvpm.jpg",
-            "speaker_name": "Gabriela Salas",
-            "speaker_desc": "Diseñadora Web/UX/UI",
-            "track": "web"
-        },
-        {
-            "session_id": "21",
             "session_start_time": "02:00 PM",
             "session_total_time": "30 Mins",
             "session_title": "Accesibilidad Web para las Personas Sordas",
-            "session_desc": "[Auditorio C] - Este tema se abarca las directrices para el uso de la lengua de señas en la web",
+            "session_desc": "[Auditorio 2] - Este tema se abarca las directrices para el uso de la lengua de señas en la web",
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360605/devfest-2019/speakers/6.LeonelLopez_ewxgqd.jpg",
             "speaker_name": "Leonel López Borbón",
             "speaker_desc": "Ingeniero en sistemas",
             "track": "web"
         },
         {
+            "session_id": "21",
+            "session_start_time": "02:00 PM",
+            "session_total_time": "90 Mins",
+            "session_title": "Flutter + Firebase",
+            "session_desc": "[Aula 2] - Tener una laptop con el SDK de Flutter instalado y una cuenta en Google para Firebase",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571591031/devfest-2019/speakers/Marco_dydri9.jpg",
+            "speaker_name": "Marcos Sevilla",
+            "speaker_desc": "Mobile Developer",
+            "track": "mobile"
+        },
+        {
             "session_id": "22",
             "session_start_time": "02:30 PM",
             "session_total_time": "60 Mins",
             "session_title": "Introduction to Google Big Query",
-            "session_desc": "[Auditorio B] - I would like to introduce Big Query and give a walk through of its power and capabilities",
+            "session_desc": "[Auditorio 1] - I would like to introduce Big Query and give a walk through of its power and capabilities",
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/12._akshay_kumar_ld8olv.jpg",
             "speaker_name": "Akshay Kumar Pallerla",
             "speaker_desc": "Google Cloud Certified Professional Data Engineer working at NTT DATA",
@@ -246,7 +246,7 @@
             "session_start_time": "02:30 PM",
             "session_total_time": "60 Mins",
             "session_title": "¿Monolítico a microservicios, opción para escalabilidad?",
-            "session_desc": "[Auditorio C] - La historia de un proyecto real de tecnología, desde los inicios y cómo ha resuelto los problemas de estructura para escalar la misma. Soluciones y buenas prácticas",
+            "session_desc": "[Auditorio 2] - La historia de un proyecto real de tecnología, desde los inicios y cómo ha resuelto los problemas de estructura para escalar la misma. Soluciones y buenas prácticas",
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/devfest-2019/speakers/16.Brian_Salazar_v96slt.jpg",
             "speaker_name": "Brian Salazar",
             "speaker_desc": "Programador",

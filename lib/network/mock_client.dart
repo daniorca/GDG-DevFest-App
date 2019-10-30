@@ -22,7 +22,7 @@ class MockClient implements IClient {
     //? For Speakers Hardcoded Data
     if (resourcePath == HomeProvider.kConstGetSpeakersUrl) {
       if (Injector().currentDataMode == DataMode.DART) {
-        rawString = jsonEncode(SpeakersData(speakers: speakers));
+        rawString = jsonEncode(SpeakersData(speakers: []));
       } else {
         rawString = await rootBundle.loadString(Devfest.speakersAssetJson);
       }
@@ -32,7 +32,7 @@ class MockClient implements IClient {
     //? For Sessions Hardcoded Data
     else if (resourcePath == HomeProvider.kConstGetSessionsUrl) {
       if (Injector().currentDataMode == DataMode.DART) {
-        rawString = jsonEncode(SessionsData(sessions: sessions));
+        rawString = jsonEncode(SessionsData(sessions: []));
       } else {
         rawString = await rootBundle.loadString(Devfest.sessionsAssetJson);
       }
@@ -42,7 +42,7 @@ class MockClient implements IClient {
     //? For Teams Hardcoded Data
     else if (resourcePath == HomeProvider.kConstGetTeamsUrl) {
       if (Injector().currentDataMode == DataMode.DART) {
-        rawString = jsonEncode(TeamsData(teams: teams));
+        rawString = jsonEncode(TeamsData(teams: []));
       } else {
         rawString = await rootBundle.loadString(Devfest.teamsAssetJson);
       }

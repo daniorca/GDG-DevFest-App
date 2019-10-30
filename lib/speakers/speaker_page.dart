@@ -17,43 +17,37 @@ class SpeakerPage extends StatelessWidget {
   Widget socialActions(context, Speaker speaker) => FittedBox(
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: <Widget>[
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.facebookF,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.fbUrl);
-              },
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.twitter,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.twitterUrl);
-              },
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.linkedinIn,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.linkedinUrl);
-              },
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.github,
-                size: 15,
-              ),
-              onPressed: () {
-                launch(speaker.githubUrl);
-              },
-            ),
+          children: [
+            speaker.fbUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(FontAwesomeIcons.facebookF, size: 15),
+                    onPressed: () => launch(speaker.fbUrl),
+                  )
+                : Container(height: 15),
+            speaker.twitterUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.twitter,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(speaker.twitterUrl))
+                : Container(height: 15),
+            speaker.linkedinUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.linkedinIn,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(speaker.linkedinUrl))
+                : Container(height: 15),
+            speaker.githubUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.github,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(speaker.githubUrl))
+                : Container(height: 15, width: 15),
           ],
         ),
       );

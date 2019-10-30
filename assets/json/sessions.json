@@ -14,12 +14,12 @@
             "session_id": "2",
             "session_start_time": "10:00 AM",
             "session_total_time": "30 Mins",
-            "session_title": "Como empezar con TensorFlow",
-            "session_desc": "[Auditorio 2] - Dar una introduccion a la Inteligencia Artificial a traves de tensor flow",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360606/devfest-2019/speakers/11.Randall_Hernandez_kivjod.jpg",
-            "speaker_name": "Randall Hernandez Barquero",
-            "speaker_desc": "Full stack developer",
-            "track": "web"
+            "session_title": "React on Fire",
+            "session_desc": "[Auditorio 2]",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1572477069/devfest-2019/speakers/_Jonathan_Guadamuz_whpp7c.jpg",
+            "speaker_name": "Jonathan Guadamuz",
+            "speaker_desc": "Software Engineer",
+            "track": "cloud"
         },
         {
             "session_id": "3",
@@ -117,8 +117,8 @@
             "session_desc": "[Auditorio 1] - Consejos esenciales para mejorar el rendimiento de su aplicación o sitio web",
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360611/devfest-2019/speakers/18.Alfredo_Bonilla_cdbnvo.jpg",
             "speaker_name": "Alfredo Bonilla",
-            "speaker_desc": "Mobile developer",
-            "track": "mobile"
+            "speaker_desc": "Ingeniero en Sistemas de Información",
+            "track": "web"
         },
         {
             "session_id": "12",
@@ -236,7 +236,7 @@
             "session_total_time": "60 Mins",
             "session_title": "Introduction to Google Big Query",
             "session_desc": "[Auditorio 1] - I would like to introduce Big Query and give a walk through of its power and capabilities",
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/12._akshay_kumar_ld8olv.jpg",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/devfest-2019/speakers/12._akshay_kumar_ld8olv.jpg",
             "speaker_name": "Akshay Kumar Pallerla",
             "speaker_desc": "Google Cloud Certified Professional Data Engineer working at NTT DATA",
             "track": "cloud"

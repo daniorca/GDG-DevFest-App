@@ -167,11 +167,7 @@ class HomeFront extends StatelessWidget {
               onPressed: () async {
                 await _launchURL("https://www.meetup.com/gdg-costarica/");
               },
-            ),
-            IconButton(
-              icon: Icon(FontAwesomeIcons.envelope),
-              onPressed: () {},
-            ),
+            )
           ],
         ),
       );

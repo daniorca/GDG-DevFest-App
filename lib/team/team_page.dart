@@ -17,38 +17,42 @@ class TeamPage extends StatelessWidget {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: <Widget>[
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.facebookF,
-                size: 15,
-              ),
-              onPressed: () =>
-                  teamMember.fbUrl != '' ? launch(teamMember.fbUrl) : null,
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.twitter,
-                size: 15,
-              ),
-              onPressed: () =>
-              teamMember.twitterUrl != '' ? launch(teamMember.twitterUrl) : null,
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.linkedinIn,
-                size: 15,
-              ),
-              onPressed: () =>
-                teamMember.linkedinUrl != '' ? launch(teamMember.linkedinUrl) : null,
-            ),
-            IconButton(
-              icon: Icon(
-                FontAwesomeIcons.github,
-                size: 15,
-              ),
-              onPressed: () =>
-                teamMember.githubUrl != '' ? launch(teamMember.githubUrl) : null,
-            ),
+            teamMember.fbUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.facebookF,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(teamMember.fbUrl),
+                  )
+                : Container(height: 15, width: 15),
+            teamMember.twitterUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.twitter,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(teamMember.twitterUrl),
+                  )
+                : Container(height: 15, width: 15),
+            teamMember.linkedinUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.linkedinIn,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(teamMember.linkedinUrl),
+                  )
+                : Container(height: 15, width: 15),
+            teamMember.githubUrl.isNotEmpty
+                ? IconButton(
+                    icon: Icon(
+                      FontAwesomeIcons.github,
+                      size: 15,
+                    ),
+                    onPressed: () => launch(teamMember.githubUrl),
+                  )
+                : Container(height: 15, width: 15),
           ],
         ),
       );

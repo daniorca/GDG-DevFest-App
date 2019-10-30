@@ -36,14 +36,7 @@ class DevScaffold extends StatelessWidget {
                   ConfigBloc()
                       .dispatch(DarkModeEvent(!ConfigBloc().darkModeOn));
                 },
-              ),
-              IconButton(
-                onPressed: () {},
-                icon: Icon(
-                  Icons.share,
-                  size: 20,
-                ),
-              ),
+              )
             ],
           ),
           body: body,

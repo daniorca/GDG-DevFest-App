@@ -10,7 +10,7 @@
             "twitter_url": ""
         },
         {
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/12._akshay_kumar_ld8olv.jpg",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360608/devfest-2019/speakers/12._akshay_kumar_ld8olv.jpg",
             "speaker_name": "Akshay Kumar Pallerla",
             "speaker_desc": "Google Cloud Certified Professional Data Engineer working at NTT DATA",
             "speaker_session": "Introduction to Google Big Query",
@@ -32,7 +32,7 @@
         {
             "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360611/devfest-2019/speakers/18.Alfredo_Bonilla_cdbnvo.jpg",
             "speaker_name": "Alfredo Bonilla",
-            "speaker_desc": "Ingeniería en Sistemas de Información",
+            "speaker_desc": "Ingeniero en Sistemas de Información",
             "speaker_session": "¡Web a toda velocidad!",
             "fb_url": "https://www.facebook.com/brolag",
             "github_url": "https://github.com/brolag",
@@ -260,13 +260,13 @@
             "twitter_url": ""
         },
         {
-            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1571360606/devfest-2019/speakers/11.Randall_Hernandez_kivjod.jpg",
-            "speaker_name": "Randall Hernandez Barquero",
-            "speaker_desc": "Full stack developer",
-            "speaker_session": "Como empezar con TensorFlow",
+            "speaker_image": "https://res.cloudinary.com/deqriyfhu/image/upload/v1572477069/devfest-2019/speakers/_Jonathan_Guadamuz_whpp7c.jpg",
+            "speaker_name": "Jonathan Guadamuz",
+            "speaker_desc": "Software Engineer",
+            "speaker_session": "React on Fire",
             "fb_url": "",
             "github_url": "",
-            "linkedin_url": "https://www.linkedin.com/in/randall-hern%C3%A1ndez-a6492263",
+            "linkedin_url": "",
             "twitter_url": ""
         },
         {

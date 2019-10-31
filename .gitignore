@@ -76,3 +76,4 @@
 ios/Podfile.lock
 ios/Podfile.lock
 pubspec.lock
+android/app/release/app.aab
